@@ -124,7 +124,7 @@ body {
 .site-header {
     background: var(--navy);
     color: white;
-    padding: 2rem 1rem 1.5rem;
+    padding: 0.25rem 1rem;
     text-align: center;
 }
 
@@ -136,7 +136,7 @@ body {
 .site-header h1 {
     font-size: clamp(2.4rem, 4vw, 3.8rem);
     letter-spacing: 0.04em;
-    margin-bottom: 0.75rem;
+    margin-bottom: -0.5rem;
 }
 
 
@@ -170,16 +170,6 @@ body {
     }
 }
 
-.direccion{
-    display: inline-block;
-    margin: 10px 0;
-    padding: 6px 14px;
-    background: rgba(255,255,255,.15);
-    border-radius: 20px;
-    color: #fff;
-    font-weight: 600;
-    font-size: 0.95rem;
-}
 
 .slogan {
     font-size: 1.1rem;
@@ -187,7 +177,7 @@ body {
 }
 
 .hero-section {
-    margin-top: -3rem;
+    margin-top: -0.65rem;
 }
 
 .hero-video-wrap {
@@ -289,7 +279,16 @@ body {
     z-index: 1;
 }
 
-
+.direccion{
+    display: inline-block;
+    margin: 10px 0;
+    padding: 6px 13px;
+    background: rgba(255,255,255,.15);
+    border-radius: 20px;
+    color: #fff;
+    font-weight: 600;
+    font-size: 0.95rem;
+}
 
 .categoria-btn {
     background: transparent;
