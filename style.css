@@ -279,16 +279,7 @@ body {
     z-index: 1;
 }
 
-.direccion{
-    display: inline-block;
-    margin: 10px 0;
-    padding: 6px 14px;
-    background: rgba(255,255,255,.15);
-    border-radius: 20px;
-    color: #fff;
-    font-weight: 600;
-    font-size: 0.95rem;
-}
+
 
 .categoria-btn {
     background: transparent;
@@ -488,8 +479,6 @@ footer p {
     border-color: #e67e22;
     box-shadow: 0 0 0 3px rgba(230, 126, 34, 0.2);
 }
-
-
 
 
 
