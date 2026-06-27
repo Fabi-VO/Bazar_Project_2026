@@ -1,0 +1,554 @@
+[
+        {
+        "codigo": "7861021200847", 
+        "precio": 1.25,
+        "nombre": "Achiote en pasta de 130g",
+        "descripcion": "Achiote para dar color a los alimentos.",
+        "imagen": "https://supermaxi-225de.kxcdn.com/wp-content/uploads/2025/06/7861021200847-1-19.jpg",
+        "categoria": "tienda"
+    },
+    {
+        "precio": 1.25,
+        "nombre": "Cuaderno Universitario",
+        "descripcion": "Cuaderno de tapa blanda, 100 hojas, ideal para clases y apuntes.",
+        "imagen": "https://acdn-us.mitiendanube.com/stores/002/556/981/products/whatsapp-image-2026-02-05-at-11-53-12-1-90e64e7b399ba123a517703033721820-1024-1024.webp",
+        "categoria": "papeleria"
+    },
+    {
+        "precio": 0.40,
+        "nombre": "Bolígrafo o Lapicero",
+        "descripcion": "Precio unitario de cada lapicero punta fina o gruesa.",
+        "imagen": "https://simianpape.com/wp-content/uploads/2024/10/lapicero-mediano-pelkan-2.webp",
+        "categoria": "papeleria"
+    },
+    {
+        "precio": 3.50,
+        "nombre": "Resma de Papel A4",
+        "descripcion": "500 hojas tamaño A4 para impresiones, fotocopias y tareas.",
+        "imagen": "https://polipapel.vteximg.com.br/arquivos/ids/179976-700-700/Y02390.png?v=638428387907770000",
+        "categoria": "papeleria"
+    },
+    {
+        "precio": 1.00,
+        "nombre": "Jabón de Tocador",
+        "descripcion": "Precio de jabón unitario, para aseo personal.",
+        "imagen": "https://prodelimptienda.com.ar/wp-content/uploads/2020/07/DOVE_Mesa-de-trabajo-1.png",
+        "categoria": "limpieza"
+    },
+    {
+        "precio": 0.50,
+        "nombre": "Pañuelos Desechables",
+        "descripcion": "Caja de 25 unidades, suave y resistente.",
+        "imagen": "https://www.durban.cl/assets/img/productos/pub/05045207-1.jpg",
+        "categoria": "limpieza"
+    },
+    {
+        "precio": null,
+        "nombre": "Pago de Luz",
+        "descripcion": "Gestión rápida de pago de servicios en nuestra tienda.",
+        "imagen": "https://www.cnelep.gob.ec/wp-content/uploads/2025/07/3-PREPAGO.png",
+        "categoria": "servicios"
+    },
+    {
+        "precio": null,
+        "nombre": "Pago de Agua",
+        "descripcion": "Trámite de pago de agua potable sin filas largas.",
+        "imagen": "https://www.gob.ec/sites/default/files/styles/gobec_image_content/public/2022-06/ICONOS_Mesa%20de%20trabajo%201%20copia%2059.jpg.jpeg?itok=GrJXsx68",
+        "categoria": "servicios"
+    },
+    {
+        "precio": 6.00,
+        "nombre": "Botella Térmica",
+        "descripcion": "Mantiene bebidas frías o calientes por horas.",
+        "imagen": "termo.png",
+        "categoria": "otros"
+    },
+    {
+        "precio": 0.30,
+        "nombre": "Servicio de Fotocopiado",
+        "descripcion": "Copias en blanco y negro o color con entrega rápida.",
+        "imagen": "https://enlinea.santotomas.cl/web/wp-content/uploads/sites/2/2021/04/impresora-744x465.jpg",
+        "categoria": "otros"
+    },
+    {
+        "precio": 1.50,
+        "nombre": "Libra de Pollo",
+        "descripcion": "Pollo fresco, ideal para preparar platos deliciosos.",
+        "imagen": "https://super-del-corral.myshopify.com/cdn/shop/products/POLLOREY_278x.jpg?v=1590082335",
+        "categoria": "tienda"
+    },
+    {
+        "precio": 1.00,
+        "nombre": "Aceite de 400ml",
+        "descripcion": "Aceite de cocina de alta calidad para cocinar de 400ml.",
+        "imagen": "https://i0.wp.com/supermercadoscorsa.com/wp-content/uploads/2025/09/Aceite-Criollo-400ml.jpg?fit=500%2C500&ssl=1",
+        "categoria": "tienda"
+    },
+    {
+        "codigo": 7861048680325,
+        "precio": 2.00,
+        "nombre": "Aceite de 900ml",
+        "descripcion": "Aceite de cocina de alta calidad para cocinar.",
+        "imagen": "https://almacenescorsa.com/wp-content/uploads/2021/06/aceite-criollo-900ml.jpg",
+        "categoria": "tienda"
+    },
+    {
+        
+        "precio": 1.50,
+        "nombre": "Atún Real",
+        "descripcion": "Atún enlatado de alta calidad, delicioso y nutritivo.",
+        "imagen": "https://supermaxi-225de.kxcdn.com/wp-content/uploads/2025/11/90388000792-1-17.jpg",
+        "categoria": "tienda"
+    },
+    {
+        "precio": 1.00,
+        "nombre": "Atún Mar Brava",
+        "descripcion": "Atún enlatado de alta calidad, ideal para ensaladas y platos.",
+        "imagen": "data:image/jpeg;base64,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",
+        "categoria": "tienda"
+    },
+    {
+        "precio": 1.20,
+        "nombre": "Café Oro 20gr",
+        "descripcion": "Café ecuatoriano molido con aroma intenso y sabor tradicional para acompañar tus mañanas.",
+        "imagen": "https://supermaxi-225de.kxcdn.com/wp-content/uploads/2024/08/7861006800642-1.png",
+        "categoria": "tienda"
+    },
+    {
+        "precio": 2.10,
+        "nombre": "Papel Higiénico Eco 4 Rollos",
+        "descripcion": "Papel higiénico doble hoja económico y funcional para uso diario.",
+        "imagen": "https://mercadomi.com.ec/wp-content/uploads/2024/12/PRODUCTOS-MERCADOMI-5-1.png",
+        "categoria": "limpieza"
+    },
+    {
+        "precio": 2.60,
+        "nombre": "Aceite La Favorita 1L",
+        "descripcion": "Aceite vegetal ideal para cocinar, freír y preparar todo tipo de alimentos.",
+        "imagen": "https://mercadomi.com.ec/wp-content/uploads/2024/11/27202_G.jpg",
+        "categoria": "tienda"
+    },
+    {
+        "precio": 1.00,
+        "nombre": "Azúcar Valdez 1kg",
+        "descripcion": "Azúcar refinada de excelente calidad para bebidas, postres y recetas caseras.",
+        "imagen": "https://supermaxi-225de.kxcdn.com/wp-content/uploads/2024/12/items2Figm2F1000x10002F7861049300017-1.jpg",
+        "categoria": "tienda"
+    },
+    {
+        "precio": 0.55,
+        "nombre": "Sal Cris-Sal 500g",
+        "descripcion": "Sal refinada yodada ideal para condimentar tus comidas diariamente.",
+        "imagen": "https://supermaxi-225de.kxcdn.com/wp-content/uploads/2024/08/items2Figm2F1000x10002F7861057500768-1.jpg",
+        "categoria": "tienda"
+    },
+    {
+        "precio": 1.15,
+        "nombre": "Leche Nutri Entera 900ml",
+        "descripcion": "Leche entera larga vida rica en calcio y nutrientes esenciales.",
+        "imagen": "https://santamaria.vtexassets.com/arquivos/ids/161555/201455001_G.jpg?v=638974565732470000",
+        "categoria": "bebidas"
+    },
+        {
+        "precio": 1.15,
+        "nombre": "Ultra Leche 1L",
+        "descripcion": "Leche entera larga vida rica en nutrientes esenciales.",
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQz5T08kxetPQFOTEvV9Lx6mINCATHuyCYJKg&s",
+        "categoria": "bebidas"
+    },
+        {
+        "precio": 0.65,
+        "nombre": "Leche Nutri Entera 500ml",
+        "descripcion": "Leche entera larga vida rica en calcio y nutrientes esenciales.",
+        "imagen": "https://supermaxi-225de.kxcdn.com/wp-content/uploads/2024/08/7861055900249-1-4.jpg",
+        "categoria": "bebidas"
+    },
+    {
+        "precio": 1.00,
+        "nombre": "Huevos Medianos x7",
+        "descripcion": "Huevos frescos seleccionados ideales para desayunos y preparaciones diarias, 7 huevos por 1$.",
+        "imagen": "https://www.eureka.com.ec/clasica/6398-home_default/huevos-avito-cubeta-58-64-gr-x30.jpg",
+        "categoria": "tienda"
+    },
+    {
+        "precio": 0.50,
+        "nombre": "Botella de Agua Cielo 600ml",
+        "descripcion": "Agua purificada y refrescante ideal para el consumo diario.",
+        "imagen": "https://plazavea.vteximg.com.br/arquivos/ids/29322559-418-418/1005652001.jpg",
+        "categoria": "bebidas"
+    },
+    {
+        "precio": 1.25,
+        "nombre": "Pasta Dental Colgate Triple Acción de 60ml",
+        "descripcion": "Crema dental con protección anticaries y frescura duradera.",
+        "imagen": "https://mundoaseoec.com/wp-content/uploads/2021/12/COLGATE-TRIPLE-ACCION-60-ML.png",
+        "categoria": "limpieza"
+    },
+    {
+        "precio": 1.10,
+        "nombre": "Manicho Barra",
+        "descripcion": "Barra de chocolate rellena de maní, uno de los snacks más populares en Ecuador.",
+        "imagen": "https://mundocaramelo.com.ec/cdn/shop/files/Manicho25g..png?v=1721409022&width=1100",
+        "categoria": "snacks"
+    },
+    {
+        "precio": 1.10,
+        "nombre": "Galak",
+        "descripcion": "Chocolate blanco cremoso en barra, perfecto para antojos dulces.",
+        "imagen": "https://www.fybeca.com/on/demandware.static/-/Sites-masterCatalog_FybecaEcuador/default/dw2338004b/images/large/100137161-CHOCOLATE-GALAK-20G-UNIDAD.JPG",
+        "categoria": "snacks"
+    },
+    {
+        "precio": 1.50,
+        "nombre": "Galletas Amor Duo Vainilla-Chocolate",
+        "descripcion": "Tradicionales galletas dulces ecuatorianas ideales para acompañar café o leche.",
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDRjmcKtsv3LfpbMKrK-vOyaLTRdyxKrZ1vA&s",
+        "categoria": "snacks"
+    },
+    {
+        "precio": 0.25,
+        "nombre": "Sarita 20g",
+        "descripcion": "Snack crujiente en presentación de 20g, ideal para consumo rápido.",
+        "imagen": "https://mundocaramelo.com.ec/cdn/shop/files/SaritaRizadaCebollada20g..png?v=1721408114&width=1100",
+        "categoria": "snacks"
+    },
+    {
+        "precio": 0.25,
+        "nombre": "Tortolines Limón 22g",
+        "descripcion": "Tortolines sabor limón en presentación de 22g con toque cítrico y crujiente.",
+        "imagen": "https://dulcealmacen.com/wp-content/uploads/2026/02/imagenes-avif-nuevas/D37260-700x933.jpg",
+        "categoria": "snacks"
+    },
+    {
+        "precio": 0.25,
+        "nombre": "Tostitos 22g",
+        "descripcion": "Snack salado y crujiente en práctica presentación de 22g.",
+        "imagen": "https://www.inalecsa.com/assets/images/salados/tostitos-queso.png",
+        "categoria": "snacks"
+    },
+    {
+        "precio": 0.25,
+        "nombre": "Ryskos Picantes Extremo 23g",
+        "descripcion": "Snack extra picante de 23g para quienes disfrutan sabores intensos.",
+        "imagen": "https://mercadomi.com.ec/wp-content/uploads/2025/07/50-ML-X2-2025-07-25T124927.882.png",
+        "categoria": "snacks"
+    },
+    {
+        "precio": 0.65,
+        "nombre": "Tortolines Cerveceros Prosit 45g",
+        "descripcion": "Snack crocante ideal para acompañar bebidas y compartir.",
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdXNs3bSAclZJhmHgohrhWsH8QAWcr2aEeJg&s",
+        "categoria": "snacks"
+    },
+    {
+        "precio": 0.65,
+        "nombre": "Tostitos Original 43g",
+        "descripcion": "Versión original de Tostitos en presentación de 43g.",
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1BpRVOG_1s5fAGYnt-qgA4h9ObhRom2mjPA&s",
+        "categoria": "snacks"
+    },
+    {
+        "precio": 0.50,
+        "nombre": "Inacake Mini 55g",
+        "descripcion": "Mini pastelito dulce en presentación individual de 55g.",
+        "imagen": "https://supermaxi-225de.kxcdn.com/wp-content/uploads/2024/12/7861006728311-1-3.jpg",
+        "categoria": "snacks"
+    },
+    {
+        "precio": 0.50,
+        "nombre": "MIX Picantes 45g",
+        "descripcion": "Mezcla de snacks picantes en presentación de 45g.",
+        "imagen": "https://santamaria.vtexassets.com/arquivos/ids/157971/155103119_G.jpg?v=638974554347600000",
+        "categoria": "snacks"
+    },
+    {
+        "precio": 1.00,
+        "nombre": "Inacake Relleno 100g",
+        "descripcion": "Pastelito relleno de 100g con textura suave y sabor dulce.",
+        "imagen": "https://pharmacys.vtexassets.com/arquivos/ids/165833/10433P-1.jpg?v=639011482017200000",
+        "categoria": "snacks"
+    },
+    {
+        "precio": 1.00,
+        "nombre": "Inacake Chococake con Crema de Vainilla 100g",
+        "descripcion": "Ponqué de chocolate relleno con deliciosa crema de vainilla.",
+        "imagen": "https://mercadomi.com.ec/wp-content/uploads/2024/11/31238.41320.jpg",
+        "categoria": "snacks"
+    },
+        {
+        "precio": 0.30,
+        "nombre": "Buzz Lima Limón 300ml",
+        "descripcion": "Bebida gaseosa refrescante con sabor a lima limón en presentación de 300ml.",
+        "imagen": "https://supermaxi-225de.kxcdn.com/wp-content/uploads/2025/08/7862121981889-1-10.jpg",
+        "categoria": "bebidas"
+    },
+    {
+        "precio": 1.15,
+        "nombre": "Jugo del Valle 750ml",
+        "descripcion": "Jugo natural de durazno en presentación de 750ml.",
+        "imagen": "https://www.coca-cola.com/content/dam/onexp/py/es/brands/frugos/new/del_valle_carrousel_5.png",
+        "categoria": "bebidas"
+    },
+        {
+        "precio": 0.30,
+        "nombre": "Big Cola 300ml",
+        "descripcion": "Bebida gaseosa sabor cola en presentación práctica de 300ml.",
+        "imagen": "https://supermaxi-225de.kxcdn.com/wp-content/uploads/2025/08/7862110544514-1-1.png",
+        "categoria": "bebidas"
+    },
+    {
+        "precio": 0.30,
+        "nombre": "Pepsi 300ml",
+        "descripcion": "Bebida gaseosa sabor cola en presentación de 300ml.",
+        "imagen": "https://supermaxi-225de.kxcdn.com/wp-content/uploads/2025/08/7862109437698-1-2.jpg",
+        "categoria": "bebidas"
+    },
+    {
+        "precio": 0.55,
+        "nombre": "Fuze Tea 300ml",
+        "descripcion": "Bebida refrescante de té lista para consumir en presentación de 300ml.",
+        "imagen": "https://santamaria.vtexassets.com/arquivos/ids/161782/191104928_G.jpg?v=638974566050630000",
+        "categoria": "bebidas"
+    },
+    {
+        "precio": 0.55,
+        "nombre": "Güitig Toronja 335ml",
+        "descripcion": "Agua mineral con sabor a toronja en presentación de 335ml.",
+        "imagen": "https://supermaxi-225de.kxcdn.com/wp-content/uploads/2025/08/759494997302-1-1.png",
+        "categoria": "bebidas"
+    },
+    {
+        "precio": 0.55,
+        "nombre": "Pony Malta 330ml",
+        "descripcion": "Bebida de malta energizante y refrescante en presentación de 330ml.",
+        "imagen": "https://mercadomi.com.ec/wp-content/uploads/2024/11/109238_G.jpg",
+        "categoria": "bebidas"
+    },
+    {
+        "precio": 0.55,
+        "nombre": "Coca Cola Original 300ml",
+        "descripcion": "Bebida gaseosa clásica sabor cola en presentación de 300ml.",
+        "imagen": "https://supermaxi-225de.kxcdn.com/wp-content/uploads/2025/05/7861024626255-1-23.png",
+        "categoria": "bebidas"
+    },
+    {
+        "precio": 0.50,
+        "nombre": "Moraya 15g",
+        "descripcion": "Bebida en polvo saborizada en práctica presentación de 15g.",
+        "imagen": "https://mercadomi.com.ec/wp-content/uploads/2024/11/39085_G.jpg",
+        "categoria": "bebidas"
+    },
+    {
+        "precio": 0.50,
+        "nombre": "Suntea Maracuyá 20g",
+        "descripcion": "Bebida instantánea sabor maracuyá en presentación de 20g.",
+        "imagen": "https://mercadomi.com.ec/wp-content/uploads/2024/11/suntea-maracuya-x-20-g-2.webp",
+        "categoria": "bebidas"
+    },
+    {
+        "precio": 1.00,
+        "nombre": "Rapidito fideos instantáneos 65g",
+        "descripcion": "Fideos instantáneos en presentación de 65g.",
+        "imagen": "https://gruporiental.com/shop/wp-content/uploads/2018/11/FIDEO-RAPIDITO-POLLO-65G.png",
+        "categoria": "tienda"
+    },
+    {
+        "precio": 1.00,
+        "nombre": "Loncys fideos instantáneos 65g",
+        "descripcion": "Fideos instantáneos en presentación de 65g.",
+        "imagen": "https://supermaxi-225de.kxcdn.com/wp-content/uploads/2025/05/7861000260916-1-11.jpg",
+        "categoria": "tienda"
+    },
+    {
+        "precio": 1.00,
+        "nombre": "Vinagre blanco 500ml Johnny",
+        "descripcion": "Vinagre blanco de uso doméstico ideal para aderezos, limpieza y conservas en presentación de 500ml.",
+        "imagen": "vinagre.jpg",
+        "categoria": "tienda"
+    },
+        {
+        "precio": 1.00,
+        "nombre": "Ciclón 350g",
+        "descripcion": "Detergente en polvo para limpieza profunda y cuidado de la ropa.",
+        "imagen": "https://santamaria.vtexassets.com/arquivos/ids/167181/image1.jpg?v=639063532208070000",
+        "categoria": "limpieza"
+    },
+    {
+        "precio": 1.00,
+        "nombre": "Lava Todo Floral Intenso 450g",
+        "descripcion": "Detergente en polvo con aroma floral intenso para todo tipo de prendas.",
+        "imagen": "https://i0.wp.com/lavatodo.com.ec/wp-content/uploads/2024/06/lavatodo-jabones-32.png?fit=440%2C460&ssl=1",
+        "categoria": "limpieza"
+    },
+    {
+        "precio": 1.00,
+        "nombre": "Max Wash Plus Aroma Floral 450g",
+        "descripcion": "Detergente para ropa con fragancia floral y alto poder de limpieza.",
+        "imagen": "https://static.wixstatic.com/media/5ffe9d_0a5d76adf0cb42ffae3e0f22bb946bb1~mv2.png/v1/fit/w_500,h_500,q_90/file.png",
+        "categoria": "limpieza"
+    },
+    {
+        "precio": 1.00,
+        "nombre": "Papel Higiénico Kawai 6 Rollos",
+        "descripcion": "Papel higiénico suave y resistente en paquete de 6 rollos.",
+        "imagen": "https://mercadomi.com.ec/wp-content/uploads/2024/12/PAPEL-HIGIENICO-forest-kawaii.jpg",
+        "categoria": "limpieza"
+    },
+    {
+        "codigo": 7702026194659,
+        "precio": 1.00,
+        "nombre": "Papel Higiénico Familia TriplePlus 3 Rollos",
+        "descripcion": "Papel higiénico de triple hoja con máxima suavidad y absorción.",
+        "imagen": "https://images.ctfassets.net/tcoigcjw85h2/1lNuYD0ypiGCsk65oNLLVG/8748c13d7ab80cd5ce0318e76dc6970b/ph-triple-plus-2-en-1-x3-interna.png",
+        "categoria": "limpieza"
+    },
+    {
+        "precio": 1.00,
+        "nombre": "Papel Higiénico Hada Triple Ahorro 3 Rollos",
+        "descripcion": "Papel higiénico triple hoja en presentación ahorro de 3 rollos.",
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUR_h2ymEy-uMF7Xx6x7Aiy2d8kwuUZwcNRw&s",
+        "categoria": "limpieza"
+    },
+    {
+        "precio": 1.00,
+        "nombre": "Pasta Dental Fresh Dent Menta 100g",
+        "descripcion": "Crema dental con sabor a menta para una limpieza fresca y completa.",
+        "imagen": "https://img2.elyerromenu.com/images/combos-lety-migue/pasta-dental-h/img.webp",
+        "categoria": "limpieza"
+    },
+    {
+        "precio": 1.00,
+        "nombre": "Pasta Dental Polar 78g",
+        "descripcion": "Pasta de dientes para higiene bucal diaria y protección dental.",
+        "imagen": "https://www.lafabril.com.ec/wp-content/uploads/2017/07/150ml-528x513.png",
+        "categoria": "limpieza"
+    },
+    {
+        "precio": 1.00,
+        "nombre": "Suavizante Perla Aroma Lavanda 370ml",
+        "descripcion": "Suavizante para ropa con delicado aroma a lavanda.",
+        "imagen": "https://santamaria.vtexassets.com/arquivos/ids/160453/195554926_G.jpg?v=638974564032870000",
+        "categoria": "limpieza"
+    },
+    {
+        "precio": 1.10,
+        "nombre": "Lavavajilla LAVA 235g",
+        "descripcion": "Lavavajilla de alto poder desengrasante para limpieza de utensilios.",
+        "imagen": "https://supermaxi-225de.kxcdn.com/wp-content/uploads/2025/06/7861036713325-1-5.jpg",
+        "categoria": "limpieza"
+    },
+    {
+        "precio": 1.00,
+        "nombre": "Gel Ego Attraction Ultra Intense Dorado 90ml",
+        "descripcion": "Gel corporal con fragancia masculina intensa y duradera.",
+        "imagen": "https://www.fybeca.com/dw/image/v2/BDPM_PRD/on/demandware.static/-/Sites-masterCatalog_FybecaEcuador/default/dwaa12b7bd/images/large/553472_1.jpg?sw=1000&sh=1000",
+        "categoria": "tienda"
+    },
+    {
+        "precio": 0.75,
+        "nombre": "Palillos de Bambú El Sol 300 unidades",
+        "descripcion": "Palillos de bambú ideales para uso doméstico y cocina.",
+        "imagen": "https://santamaria.vtexassets.com/arquivos/ids/159496/182155037_G.jpg?v=638974562488800000",
+        "categoria": "tienda"
+    },
+    {
+        "precio": 0.65,
+        "nombre": "Palillos Chinos Oriental 30g",
+        "descripcion": "Palillos chinos prácticos para comidas orientales.",
+        "imagen": "https://gruporiental.com/wp-content/uploads/2023/01/904005004.png",
+        "categoria": "tienda"
+    },
+    {
+        "precio": 1.00,
+        "nombre": "Jabón Palmolive Naturals 110g",
+        "descripcion": "Jabón de tocador con ingredientes naturales para limpieza y frescura.",
+        "imagen": "https://www.palmolive.com.ec/content/dam/cp-sites-aem/personal-care/palmolive-latam/redesign-2020/pdp/avena-y-azucar/jabon-en-barra-exfoliacion-diaria-110g.jpg",
+        "categoria": "limpieza"
+    },
+    {
+        "precio": 1.00,
+        "nombre": "Jabón Protex Avena 110g",
+        "descripcion": "Jabón antibacterial con avena para protección y suavidad de la piel.",
+        "imagen": "https://www.protex-soap.com/content/dam/cp-sites-aem/personal-care/protex-relaunch/andina/products/protex-avena-110g-es-ve.jpg",
+        "categoria": "limpieza"
+    },
+    {
+        "precio": 0.55,
+        "nombre": "Jabón de Tocador Jolly 100g",
+        "descripcion": "Jabón de tocador ideal para higiene diaria.",
+        "imagen": "https://www.lafabril.com.ec/wp-content/uploads/2020/10/bola_jolly_barra.png",
+        "categoria": "limpieza"
+    },
+    {
+        "precio": 1.50,
+        "nombre": "Weir Alcohol 250ml",
+        "descripcion": "Alcohol antiséptico para limpieza y desinfección.",
+        "imagen": "https://weir.ec/wp-content/uploads/2021/01/Alcohol-T.R-250.jpg",
+        "categoria": "limpieza"
+    },
+    {
+        "precio": 0.25,
+        "nombre": "Algodón 5g",
+        "descripcion": "Algodón suave para uso personal y limpieza.",
+        "imagen": "https://luegopagocdn.azureedge.net/content-process/products-images/prod/2859/881d827d-4a3f-4900-82d3-4c263562eb27.webp",
+        "categoria": "tienda"
+    },
+    {
+        "precio": 0.50,
+        "nombre": "Algodón 10g",
+        "descripcion": "Algodón absorbente ideal para cuidado personal.",
+        "imagen": "https://www.higietex.com/wp-content/uploads/2020/08/10.jpg",
+        "categoria": "tienda"
+    },
+    {
+        "precio": 0.75,
+        "nombre": "Pegamento Blanco (Goma) 140g",
+        "descripcion": "Pegamento blanco multiuso para manualidades y oficina.",
+        "imagen": "https://www.saripopular.ec/wp-content/uploads/2021/09/GOMA-BIOPLAST-140gr-MEDIANA-min.jpg",
+        "categoria": "papeleria"
+    },
+    {
+        "precio": 1.00,
+        "nombre": "Pegamento Blanco (Goma) 260g",
+        "descripcion": "Pegamento blanco de mayor contenido para trabajos escolares y manualidades.",
+        "imagen": "https://www.saripopular.ec/wp-content/uploads/2021/09/GOMA-BIOPLAST-260gr-GRANDE-min.jpg",
+        "categoria": "papeleria"
+    },
+    {
+        "precio": 0.75,
+        "nombre": "Silicona Líquida Pegasol 60ml",
+        "descripcion": "Silicona líquida para manualidades y trabajos escolares.",
+        "imagen": "https://pegafan.com/wp-content/uploads/2021/01/silicona-liquida-3-150x150.jpg",
+        "categoria": "papeleria"
+    },
+    {
+        "precio": 1.00,
+        "nombre": "Silicona Líquida Pegasol 100ml",
+        "descripcion": "Silicona líquida resistente para pegado de diferentes materiales.",
+        "imagen": "https://pegafan.com/wp-content/uploads/2021/01/silicona-liquida-4-150x150.jpg",
+        "categoria": "papeleria"
+    },
+    {
+        "precio": 1.25,
+        "nombre": "Acuarelas con Pincel Bester 12 Colores",
+        "descripcion": "Set de acuarelas con pincel ideal para actividades escolares y artísticas.",
+        "imagen": "https://pacoecuador.vtexassets.com/arquivos/ids/426955/996203058236-zmgnofcuxuph-488441084047-jukqcqayhzxy-66483-1.png?v=638870671474370000",
+        "categoria": "papeleria"
+    },
+    {
+        "precio": 2.50,
+        "nombre": "Norma Lápices de Colores Doble Punta 26 Colores",
+        "descripcion": "Caja de lápices de colores doble punta con tonos variados para dibujo.",
+        "imagen": "https://aguirrepapelerias.com/wp-content/uploads/2022/01/NNO.png",
+        "categoria": "papeleria"
+    },
+    {
+        "precio": 3.00,
+        "nombre": "Lápices de Colores Super Jumbo Passola 12 Colores",
+        "descripcion": "Lápices jumbo de colores intensos ideales para niños y dibujo escolar.",
+        "imagen": "https://www.saripopular.ec/wp-content/uploads/2021/09/COLOR-PASSOLA-LARGO-TRIPLUS-X12-JUMBO.webp",
+        "categoria": "papeleria"
+    }
+
+
+]
